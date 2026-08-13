@@ -1,7 +1,4 @@
-
-
-          **SN BOSE SUMMER INTERNSHIP**   
-  **Domain: MACHINE LEARNING** 
+**Domain: MACHINE LEARNING** 
 
 **Anomaly Detection in Time Series Data Using Restricted Boltzmann Machines**
 
